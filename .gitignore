@@ -1,0 +1,12 @@
+.venv/
+credentials.json
+token.json
+user_tokens/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+inbox_assistant.db
+inbox_assistant_0.11.4_backup.db
+.streamlit/secrets.toml
